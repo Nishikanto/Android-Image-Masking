@@ -1,4 +1,4 @@
-package com.pas.testproject;
+package com.shadow.imagemasking;
 
 import org.junit.Test;
 

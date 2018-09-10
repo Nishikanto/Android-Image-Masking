@@ -1,4 +1,4 @@
-package com.pas.testproject;
+package com.shadow.imagemasking;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

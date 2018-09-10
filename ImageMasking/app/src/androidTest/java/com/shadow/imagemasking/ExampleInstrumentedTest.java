@@ -1,4 +1,4 @@
-package com.pas.testproject;
+package com.shadow.imagemasking;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
